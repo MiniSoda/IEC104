@@ -9,3 +9,5 @@ iec104class is a pury c++ class and independent from platform.
 you can adapt it to the platform by extents it in iec104_extension.
 
 If you have any problems feel free to post an issue.
+
+欢迎联系：zhenghaolan@msn.cn
