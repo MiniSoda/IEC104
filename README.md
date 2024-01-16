@@ -1,4 +1,11 @@
 # IEC104
+
+```
+cmake -B build
+cmake --build build
+.\build\playground.sln
+```
+
 An Implement of IEC60870-5-104
 
 This is an implements of IEC-104 protocol which is commonly used in power plants'control&monitor systems.
